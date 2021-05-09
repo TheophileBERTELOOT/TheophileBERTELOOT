@@ -28,8 +28,8 @@
 
 ## Master of science in computer science
   *Laval university . Quebec, Quebec* \
-  Directors : Richard Khoury, Audrey Durand 
-  Subject : Association rule mining in big healthcare dataset  in order to spot dangerous polypharmacy  
+  Directors : Richard Khoury, Audrey Durand \
+  Subject : Association rule mining in big healthcare dataset  in order to spot dangerous polypharmacy  \
   Achievements :
   * Design of a french to chinese translator
   * Design of an intracranial haemorrhages classification system
