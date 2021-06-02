@@ -42,3 +42,8 @@
   *Université Joseph Fourier (Grenoble I) • Grenoble, Auvergne-Rhône-Alpes . 09/2016*
   * Multilayer routing
   * Participation in the creation of a quadcopter
+
+---
+# Achievements
+## Pierre-Ardouin 2020-2021 award finalist
+ * https://www.ift.ulaval.ca/vie-etudiante/prix-pierre-ardouin/
