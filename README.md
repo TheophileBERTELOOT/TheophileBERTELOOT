@@ -47,3 +47,6 @@
 # Achievements
 ## Pierre-Ardouin 2020-2021 award finalist
  * https://www.ift.ulaval.ca/vie-etudiante/prix-pierre-ardouin/
+---
+# Publications
+* Berteloot, T. (2021). Extracting Interesting Sequence Association Rules from a High-Dimensional Healthcare Dataset using Multiobjective Metaheuristics. Proceedings of the Canadian Conference on Artificial Intelligence. Retrieved from https://caiac.pubpub.org/pub/i3j1jamm
