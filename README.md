@@ -2,7 +2,7 @@
 
 ## Research Assistant
   *Co-Dot . Quebec, Quebec - 01/2021 - Present*
-  * Participation in the development of an application using expo and react native
+  * Participation in the development of severals applications (taktik, senic) using expo, react native (frontend, backend)
   
 ## IT developer apprentice
   *Framatome . Jarrie, Auverge. Rhône-Alpes - 08/2018 - 08/2020*
