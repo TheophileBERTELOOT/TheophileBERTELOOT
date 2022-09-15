@@ -2,7 +2,8 @@
 
 ## Research Assistant
   *Co-Dot . Quebec, Quebec - 01/2021 - Present*
-  * Participation in the development of severals applications (taktik, senic) using expo, react native (frontend, backend)
+  * Participation in the development of severals applications (taktik, senic) using expo, react native, nestjs
+  * Using development tools like git, postman, jira 
   
 ## IT developer apprentice
   *Framatome . Jarrie, Auverge. Rhône-Alpes - 08/2018 - 08/2020*
@@ -29,7 +30,7 @@
 ## Master of science in computer science
   *Laval university . Quebec, Quebec* \
   Directors : Richard Khoury, Audrey Durand \
-  Subject : Association rule mining in big healthcare dataset  in order to spot dangerous polypharmacy  \
+  Subject : Association rule mining in massive healthcare dataset  in order to spot harmful polypharmacy  \
   Achievements :
   * Design of a french to chinese translator
   * Design of an intracranial haemorrhages classification system
