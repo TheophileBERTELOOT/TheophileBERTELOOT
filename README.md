@@ -3,7 +3,8 @@
 ## Research Assistant
   *Co-Dot . Quebec, Quebec - 01/2021 - Present*
   * Participation in the development of severals applications (taktik, senic) using expo, react native, nestjs
-  * Using development tools like git, postman, jira 
+  * Using development tools like git, postman, jira
+  * Role of a ML specialist working on project regarding emotion classification from prosody, detection of concussion through serious games etc...
   
 ## IT developer apprentice
   *Framatome . Jarrie, Auverge. Rhône-Alpes - 08/2018 - 08/2020*
@@ -27,8 +28,14 @@
 
 # Education
 
-## Master of science in computer science
+## PhD in computer science
   *Laval university . Quebec, Quebec* \
+  Directors : Richard Khoury\
+  Subject : Representation, detection and prevention of toxicity in online conversation  \
+
+
+## Master of science in computer science
+  *Laval university . Quebec, Quebec* . 09/2022\
   Directors : Richard Khoury, Audrey Durand \
   Subject : Association rule mining in massive healthcare dataset  in order to spot harmful polypharmacy  \
   Achievements :
