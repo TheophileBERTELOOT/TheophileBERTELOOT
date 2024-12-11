@@ -59,3 +59,4 @@
 # Publications
 * Berteloot, T. (2021). Extracting Interesting Sequence Association Rules from a High-Dimensional Healthcare Dataset using Multiobjective Metaheuristics. Proceedings of the Canadian Conference on Artificial Intelligence. Retrieved from https://caiac.pubpub.org/pub/i3j1jamm
 * Berteloot, T. (2023). Association rules mining in massive datasets: an application to polypharmacy detection. https://corpus.ulaval.ca/server/api/core/bitstreams/7c85598f-2704-42be-bcea-80da12371889/content
+* Berteloot, Théophile, Richard Khoury, and Audrey Durand. "Association rules mining with auto-encoders." International Conference on Intelligent Data Engineering and Automated Learning. Cham: Springer Nature Switzerland, 2024.
